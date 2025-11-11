@@ -6,7 +6,7 @@ I build **scalable web applications** and **automate workflows** using modern te
 
 ## 🛠 Skills & Technologies
 
-- **Frontend:**  React, Next.js, Angular, Vue, TypeScript, HTML, CSS, SASS, Styled Components
+- **Frontend:** React, Next.js, Angular, Vue, TypeScript, HTML, CSS, SASS, Styled Components
 - **Backend:** Node.js, Nest.js, Python, Java, C#, PHP
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Cloud & DevOps:** AWS, Docker, GitHub Actions, CI/CD pipelines, Kubernetes
