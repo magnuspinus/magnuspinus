@@ -93,7 +93,6 @@ I bring a comprehensive skill set in full-stack development, cloud infrastructur
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=magnuspinus&layout=compact&theme=radical&hide_title=true&hide_border=true&hide=C%2B%2B&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=magnuspinus&theme=radical&hide_border=true)
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=magnuspinus&theme=radical&hide_border=true&area=true)
 
