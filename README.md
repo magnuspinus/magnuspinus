@@ -13,7 +13,6 @@
 
 ## 👋 About Me
 
-<<<<<<< HEAD
 Experienced software engineer specializing in building scalable web applications and intelligent automation solutions. Passionate about leveraging modern technologies and AI to solve complex business challenges and improve developer productivity. I thrive in collaborative environments and enjoy turning complex problems into elegant, maintainable solutions.
 
 **Currently:** Building full-stack applications and AI-powered automation tools  
@@ -24,7 +23,6 @@ Experienced software engineer specializing in building scalable web applications
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Cloud & DevOps:** AWS, Docker, GitHub Actions, CI/CD pipelines, Kubernetes
 - **AI & Automation:** LLM integrations, AI-powered workflows, automation scripts
->>>>>>> a490f9085b33472cb74de22f61197eef4de3225e
 
 ---
 
