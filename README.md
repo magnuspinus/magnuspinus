@@ -14,9 +14,6 @@
 ## 👋 About Me
 
 Experienced software engineer specializing in building scalable web applications and intelligent automation solutions. Passionate about leveraging modern technologies and AI to solve complex business challenges and improve developer productivity. I thrive in collaborative environments and enjoy turning complex problems into elegant, maintainable solutions.
-
-**Currently:** Building full-stack applications and AI-powered automation tools  
-**Interests:** Web Development, AI/ML Integration, Cloud Architecture, Open Source
 =======
 - **Frontend:** React, Next.js, Angular, Vue, TypeScript, HTML, CSS, SASS, Styled Components
 - **Backend:** Node.js, Nest.js, Python, Java, C#, PHP
