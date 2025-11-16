@@ -1,8 +1,6 @@
 <div align="center">
 
-# Magnus Pinus
-
-**Full-Stack Web Developer & AI Automation Engineer**
+# Full-Stack Web Developer & AI Automation Engineer
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/magnuspinus)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magnuspinus969@gmail.com)
@@ -14,12 +12,9 @@
 ## 👋 About Me
 
 Experienced software engineer specializing in building scalable web applications and intelligent automation solutions. Passionate about leveraging modern technologies and AI to solve complex business challenges and improve developer productivity. I thrive in collaborative environments and enjoy turning complex problems into elegant, maintainable solutions.
-=======
-- **Frontend:** React, Next.js, Angular, Vue, TypeScript, HTML, CSS, SASS, Styled Components
-- **Backend:** Node.js, Nest.js, Python, Java, C#, PHP
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Cloud & DevOps:** AWS, Docker, GitHub Actions, CI/CD pipelines, Kubernetes
-- **AI & Automation:** LLM integrations, AI-powered workflows, automation scripts
+
+**Currently:** Building full-stack applications and AI-powered automation tools  
+**Interests:** Web Development, AI/ML Integration, Cloud Architecture, Open Source
 
 ---
 
