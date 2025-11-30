@@ -1,8 +1,6 @@
 <div align="center">
 
-# Magnus Pinus
-
-**Full-Stack Web Developer & AI Automation Engineer**
+# Full-Stack Web Developer & AI Automation Engineer
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/magnuspinus)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magnuspinus969@gmail.com)
@@ -93,11 +91,8 @@ I bring a comprehensive skill set in full-stack development, cloud infrastructur
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=magnuspinus&show_icons=true&theme=radical&hide_title=true&hide_border=true&include_all_commits=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=magnuspinus&layout=compact&theme=radical&hide_title=true&hide_border=true&hide=C%2B%2B&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=magnuspinus&theme=radical&hide_border=true)
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=magnuspinus&theme=radical&hide_border=true&area=true)
 
