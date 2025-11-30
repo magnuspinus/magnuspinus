@@ -1,6 +1,10 @@
 <div align="center">
 
+<<<<<<< HEAD
 # Full-Stack Web Developer & AI Automation Engineer
+=======
+# Full-Stack Web Developer & AI Automation Engineer.
+>>>>>>> origin/main
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/magnuspinus)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magnuspinus969@gmail.com)
