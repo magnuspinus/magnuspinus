@@ -87,27 +87,6 @@ I bring a comprehensive skill set in full-stack development, cloud infrastructur
 
 ---
 
-## 🔥 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=magnuspinus&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
-
----
-
-## 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 📫 Let's Connect
-
-I'm always open to discussing new opportunities, interesting projects, or collaboration ideas. Feel free to reach out!
-
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-magnuspinus969@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magnuspinus969@gmail.com)
