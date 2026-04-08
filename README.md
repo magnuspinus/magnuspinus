@@ -89,15 +89,6 @@ I bring a comprehensive skill set in full-stack development, cloud infrastructur
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-magnuspinus969@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magnuspinus969@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@magnuspinus-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/magnuspinus)
-
-</div>
-
----
-
-<div align="center">
-
 **Always learning, always building.** 🚀
 
 *Last updated: [Auto-updated via GitHub Actions]*
